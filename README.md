@@ -19,3 +19,11 @@
 
 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+
+
+
+
+
+| <a href="https://github.com/FlorianAuc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorianAuc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FlorianAuc github stats" /></a> | <a href="https://github.com/FlorianAuc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianAuc&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
