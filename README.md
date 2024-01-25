@@ -3,7 +3,7 @@
 ### I am a junior web developer
 
 - 🌱 I learn to cepegra (front-end formation)
-- 🥅 2023 Goals: Learn more about: ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🥅 2024 Goals: Learn more about: ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   And more !
 
 ### Connect with me:
